@@ -1,0 +1,9 @@
+{
+  "name": "souvage-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Souvage — Anders Stensson coaching landing page",
+  "dependencies": {
+    "resend": "^4.0.0"
+  }
+}

@@ -1,0 +1,36 @@
+Souvage landing rebuild — 2026-09-23 (Europe/Stockholm)
+
+Changed files:
+- index.html — hero photo of Anders, gallery strip, SV|EN markup via data-i18n, bilingual form labels
+- styles.css — gallery strip, language toggle, object-position helpers, mobile tweaks
+- main.js — i18n dictionary (SV/EN), localStorage persistence, browser-lang default, bilingual form status
+- assets/anders-hero.jpg, anders-1.jpg … anders-11.jpg — new web-optimized photos of Anders
+- CHANGELOG.txt — this file
+
+Unchanged (intentionally):
+- netlify/functions/contact.js — same endpoint, field names, Resend flow to team.souvage@gmail.com
+- Offer select values: coaching | r3ta | halsning | osaker
+- Form fields: name, email, phone, instagram, offer, goal, timeline, company (honeypot)
+- Graphic posters offer-1…6.jpg kept for offer cards (coaching/R3TA/hälsning)
+
+Photos on page (Anders, not posters):
+- Hero: anders-hero.jpg (shirtless forest, pointing)
+- Gallery: anders-1 (pushups), anders-2 (handstand/outdoor gym), anders-3 (red shirt),
+  anders-7 (blue UA portrait), anders-8 (pull-ups), anders-5 (night / hoodie frame)
+- About: anders-7.jpg
+
+Photo sources:
+- Cropped + optimized from prior Instagram profile screenshots under
+  /home/box/agent-data/agents/2341e85b-e2b3-4bd5-896d-3376b0b24d5f/assets/
+  (tall 488×1024 feed screenshots and 1024×525 desktop grid shots).
+- Derivatives: Pillow LANCZOS resize, light sharpen/contrast; max width ~1600 hero / ~1200 gallery; JPEG q≈85.
+- Offer card media still uses existing graphic posters (offer-5 coaching, offer-2 R3TA/weight, offer-3 hälsning).
+
+Gaps:
+- Source material is IG screenshots / video frames, not original camera files — resolution is limited after crop+upscale.
+- Shirtless rock-lift / log-carry / back-flex exist only as tiny grid thumbnails (~154px); not used as primary web assets.
+- Instagram CDN fetch for higher-res originals was blocked (403).
+
+Copy notes:
+- SV keeps brand line “helt fucking aktiv”; EN uses “fully fucking active”.
+- Swedish uses “mig” spelling in voice guidance; no “mej”. No prices. R3TA described as weight+muscle only.
