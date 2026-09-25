@@ -1,7 +1,7 @@
 (function () {
   const I18N = {
     sv: {
-      "meta.title": "Anders Stensson | Coaching — Souvage",
+      "meta.title": "Anders Stensson | Coach — Souvage",
       "meta.description": "1:1 coaching online med Anders Stensson (Souvage). Bygg kropp, disciplin och liv. Ansök via formuläret.",
       "nav.offers": "Erbjudanden",
       "nav.gallery": "Bilder",
@@ -11,9 +11,9 @@
       "hero.lead": "Souvage här. Online coaching med fokus på kropp, disciplin och ett liv du faktiskt äger. Fyll i formuläret så hör teamet av sig via mejl.",
       "hero.cta": "Ansök om coaching",
       "hero.secondary": "Se alla erbjudanden",
-      "hero.trust1": "<strong>Online</strong> ",
+      "hero.trust1": "<strong></strong> ",
       "hero.trust2": "<strong></strong> ",
-      "hero.trust3": "<strong>Svar</strong> via team.souvage@proton.me",
+      "hero.trust3": "<strong>Email</strong> via team.souvage@proton.me",
       "gallery.eyebrow": "Anders",
       "gallery.title": "SOUVAGE HELA VÄGEN!",
       "gallery.lead": "Från skogen till utegymmet — samma tempo som i coachingarbetet.",
