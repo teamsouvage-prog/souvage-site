@@ -40,7 +40,7 @@
       "offers.halsning.li2": "Snabbt sätt att komma i kontakt",
       "offers.halsning.cta": "Beställ hälsning",
       "about.eyebrow": "Om Anders",
-      "about.title": "Den äkta Svenska vikingen. Riktig coaching.",
+      "about.title": "Den äkta Svenska vikingen. Äkta coaching.",
       "about.p1": "Anders Stensson bygger Souvage som ett personligt varumärke kring disciplin, träning och att leva aktivt. På Instagram <strong>stensson.a</strong> och TikTok <strong>@anders.stensson</strong> ser du samma energi som i coachingarbetet.",
       "about.p2": "Inga priser på sidan — du ansöker, teamet läser, och ni tar nästa steg via mejl. Vill du ha coaching: skriv det tydligt i formuläret.",
       "about.cta": "Jag vill ha coaching",
